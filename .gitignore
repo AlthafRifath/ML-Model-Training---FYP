@@ -7,14 +7,6 @@ data/cifar-10-python.tar.gz
 *.zip
 *.7z
 
-# Models / checkpoints
-*.pth
-*.pt
-*.onnx
-*.tflite
-*.pb
-
-
 # IDE / OS
 .idea/
 
